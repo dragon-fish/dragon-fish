@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dragon-Fish&show_icons=1">
 
-Here are some ideas to get you started:
+I am **机智的小鱼君** (AKA Dragon Fish).
 
 - 🔭 I’m currently working on **destroy the world**
 - 🌱 I’m currently learning **magic power**
