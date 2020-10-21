@@ -6,6 +6,6 @@ I am **机智的小鱼君** (AKA Dragon Fish).
 
 - 🔭 I’m currently working on **destroy the world**
 - 🌱 I’m currently learning **magic power**
-- 👯 I’m looking to collaborate on inferno
-- 🤔 I’m looking for help with demon
-- ⚡ Fun fact: The above content is fabricated by me XD
+- 👯 I’m looking to collaborate on **inferno**
+- 🤔 I’m looking for help with **demon**
+- ⚡ Fun fact: The above content is **fabricated** by me. XD
