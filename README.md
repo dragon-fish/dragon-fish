@@ -18,6 +18,7 @@
 
 ### Websites
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=project-epb&repo=project-epb.github.io&show_owner=1&theme=nord)](https://www.epb.wiki)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dragon-Fish&repo=dragon-fish.github.io&show_owner=1&theme=nord)](https://blog.wjghj.cn)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dragon-Fish&repo=learn-frontend&show_owner=1&theme=nord)](https://todo.wjghj.cn)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FreeNowOrg&repo=PixivNow&show_owner=1&theme=nord)](https://github.com/FreeNowOrg/PixivNow)
@@ -26,7 +27,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=inpageedit&repo=inpageedit-v2&show_owner=1&theme=nord)](https://github.com/inpageedit/inpageedit-v2)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=genshin-kit&repo=genshin-kit&show_owner=1&theme=nord)](https://github.com/genshin-kit/genshin-kit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Fandom-zh&repo=Gadget-WikiForum&show_owner=1&theme=nord)](https://github.com/Fandom-zh/Gadget-WikiForum)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=moegirlwiki&repo=mediawiki-api-axios&show_owner=1&theme=nord)](https://github.com/moegirlwiki/mediawiki-api-axios)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Fandom-zh&repo=Gadget-UserFunctions&show_owner=1&theme=nord)](https://github.com/Fandom-zh/Gadget-UserFunctions)
 
 ### Chat Bot
