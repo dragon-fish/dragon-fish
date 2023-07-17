@@ -23,14 +23,9 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dragon-Fish&repo=learn-frontend&show_owner=1&theme=nord&_=1)](https://todo.wjghj.cn)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FreeNowOrg&repo=PixivNow&show_owner=1&theme=nord&_=1)](https://github.com/FreeNowOrg/PixivNow)
 
-### Tools
+### Toys
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=moegirlwiki&repo=wiki-saikou&show_owner=1&theme=nord&_=1)](https://github.com/moegirlwiki/wiki-saikou)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dragon-fish&repo=fexios&show_owner=1&theme=nord&_=1)](https://github.com/dragon-fish/fexios)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=inpageedit&repo=inpageedit-v2&show_owner=1&theme=nord&_=1)](https://github.com/inpageedit/inpageedit-v2)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=genshin-kit&repo=genshin-kit&show_owner=1&theme=nord&_=1)](https://github.com/genshin-kit/genshin-kit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=moegirlwiki&repo=mediawiki-api-axios&show_owner=1&theme=nord&_=1)](https://github.com/moegirlwiki/mediawiki-api-axios)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Fandom-zh&repo=Gadget-UserFunctions&show_owner=1&theme=nord&_=1)](https://github.com/Fandom-zh/Gadget-UserFunctions)
-
-### Chat Bot
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=koishijs&repo=koishi&show_owner=1&theme=nord&_=1)](https://github.com/koishijs/koishi)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Wjghj-Project&repo=Chatbot-SILI&show_owner=1&theme=nord&_=1)](https://github.com/Wjghj-Project/Chatbot-SILI)
