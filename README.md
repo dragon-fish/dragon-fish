@@ -1,19 +1,57 @@
-# 机智的小鱼君 (AKA Dragon Fish)
+<table width="300px" align="right">
+<thead>
+  <tr>
+    <th colspan="2"><img height="300px" src="https://r2.epb.wiki/artworks/Dragon.Fish/20231031.jpeg"></th>
+  </tr>
+  <tr>
+    <th colspan="2">Personal Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Nicknames</th>
+    <td>机智的小鱼君<br>难道是小鱼君吗</td>
+  </tr>
+  <tr>
+    <th>Nicknames(EN)</th>
+    <td>Dragon Fish<br>XiaoYuJunDesu</td>
+  </tr>
+  <tr>
+    <th>Birthday</th>
+    <td>October 5</td>
+  </tr>
+  <tr>
+    <th>Hobbies</th>
+    <td>Coding, drawing,<br>electronic games,<br><del>kemonomimi loli</del></td>
+  </tr>
+  <tr>
+    <th>Gender</th>
+    <td><del>🚁Helicopter</del> ♂Boy</td>
+  </tr>
+  <tr>
+    <th>Profession</th>
+    <td>Frontend engineer</td>
+  </tr>
+  <tr>
+    <th>Github<br>Stats</th>
+    <td><img width="160px" src="https://github-readme-stats.vercel.app/api?username=Dragon-Fish&count_private=true&show_icons=true&theme=nord&_=1"></td>
+  </tr>
+  <tr>
+    <th>Programming<br>Languages</th>
+    <td><img width="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-Fish&layout=compact&theme=nord&_=1"></td>
+  </tr>
+  <tr>
+    <th>Original<br>Character</th>
+    <td><a href="https://epbureau.notion.site/98e9fb3dd1ef469dba391c54db043d1d">About my avatar</a></td>
+  </tr>
+</tbody>
+</table>
 
-<img align="right" src="https://metrics.lecoq.io/Dragon-Fish?template=classic&base.header=0&lines=1&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FShanghai">
+**机智的小鱼君**(A.K.A. _Dragon Fish_) is a programmer from China.
 
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Dragon-Fish&count_private=true&show_icons=true&theme=nord&_=1">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-Fish&layout=compact&theme=nord&_=1">
+He currently works for [**萌娘百科**(_Moegirl Pedia_)](https://zh.moegirl.org.cn).
 
----
-
-- 🔭 I’m currently working on **destroy the world**
-- 🌱 I’m currently learning **magic power**
-- 👯 I’m looking to collaborate on **inferno**
-- 🤔 I’m looking for help with **demon**
-- ⚡ Fun fact: The above content is **fabricated** by me. XD
-
-## Pinned
+## Notable Projects
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=&repo=&show_owner=1&theme=nord)]() -->
 
 ### Websites
