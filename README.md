@@ -90,3 +90,7 @@ I have a soft spot for cute characters and love to draw. I've created some [orig
 [![](https://github-readme-stats.vercel.app/api/pin/?username=genshin-kit&repo=genshin-kit&show_owner=1&theme=nord&_=1)](https://github.com/genshin-kit/genshin-kit)
 
 </details>
+
+### Sponsor Me
+
+<a href="https://afdian.net/a/dragon-fish"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
