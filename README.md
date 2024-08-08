@@ -93,4 +93,4 @@ I have a soft spot for cute characters and love to draw. I've created some [orig
 
 ### Sponsor Me
 
-<a href="https://afdian.net/a/dragon-fish"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
+<a href="https://afdian.com/a/dragon-fish"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
