@@ -1,8 +1,11 @@
-*.corp.moegirl.org.cn;
 *.moegirl.org.cn;
+*.corp.moegirl.org.cn;
 *.aojiaogame.com;
 *.corp.aojiaogame.com;
 json.schemastore.org;
+lanhuapp.com;
+*.lanhuapp.com;
+*.deepseek.com;
 localhost.*;
 localhost;
 127.*;
